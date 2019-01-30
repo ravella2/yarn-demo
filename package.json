@@ -1,0 +1,11 @@
+{
+  "name": "yarn-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rachele <rachele.avella@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "firebase": "^5.8.1"
+  }
+}
